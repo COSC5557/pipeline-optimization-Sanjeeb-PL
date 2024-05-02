@@ -1,0 +1,11 @@
+notes.txt
+ercot-dataset.csv
+wine_quality/
+winequality-white.csv
+Hyperparameter optimization Report.docx
+Pipeline Optimization Report.docx
+others/
+ML_Exercise.ipynb
+RandomForest - kfold validation.ipynb
+DeepNeuralNetwork.ipynb
+pipeline_optimization - working.ipynb
